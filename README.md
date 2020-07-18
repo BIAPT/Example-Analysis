@@ -5,7 +5,7 @@ Repository for analysis example that can be reused in research projects
 
 In order to complete this tutorial, follow these steps:
 
-1. Clone the repo to your computer: git clone https://github.com/BIAPT/Example-Analysis.git
+1. cd to the path of your choice on your terminal and clone the repo to your computer: git clone https://github.com/BIAPT/Example-Analysis.git
 
 2. You will need Python and Jupyter Notebook. 
 
