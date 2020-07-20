@@ -1,5 +1,10 @@
 # Example-Analysis
+
+![MNE](Documents/mne_logo.svg)
+
 Repository for analysis example that can be reused in research projects
+
+
 
 ## Installation
 
