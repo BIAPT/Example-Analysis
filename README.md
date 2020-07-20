@@ -54,7 +54,7 @@ MNE-python offers a great variety of analysis techniques presented as tutorials 
 
 * [Time-frequency analysis](https://mne.tools/dev/auto_tutorials/intro/plot_10_overview.html#time-frequency-analysis)
 * [Estimating evoked response](https://mne.tools/dev/auto_tutorials/intro/plot_10_overview.html#estimating-evoked-responses)
-* Connectivity Analysis (see these [examples](https://mne.tools/dev/auto_examples/index.html); specifically here's, for example, one tutorial on [computning all-to-all connectivity in sensor space](https://mne.tools/dev/auto_examples/connectivity/plot_sensor_connectivity.html#sphx-glr-auto-examples-connectivity-plot-sensor-connectivity-py)
+* Connectivity Analysis (see these [examples](https://mne.tools/dev/auto_examples/index.html); specifically here's, for example, one tutorial on [computinng all-to-all connectivity in sensor space](https://mne.tools/dev/auto_examples/connectivity/plot_sensor_connectivity.html#sphx-glr-auto-examples-connectivity-plot-sensor-connectivity-py)
 * [Inverse problem and source analysis](https://mne.tools/dev/auto_tutorials/intro/plot_10_overview.html#inverse-modeling)
 * Forward modeling : here's an [example](https://mne.tools/dev/auto_tutorials/source-modeling/plot_forward.html#tut-forward) to get started 
 * Statistics of sensor data and source estimates: see [tutorials](https://mne.tools/dev/auto_tutorials/index.html)
