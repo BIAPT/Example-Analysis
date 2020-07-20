@@ -28,7 +28,7 @@ Refer to this [tutorial](https://guides.github.com/features/issues/) on issues a
 
 ## How to use the command line to git pull this repository.
 
-A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. You can version control locally on your machine via Git or on GitHub. See this handbook for an introduction and basic principles [Git Handbook](https://guides.github.com/introduction/git-handbook/).
+A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. You can version control locally on your machine via Git or on the cloud-based hosting service which is GitHub. See this handbook for an introduction of use and basic principles [Git Handbook](https://guides.github.com/introduction/git-handbook/).
 
 Here's a great tutorial recommanded for you to follow offering a slide presentation, a hands-on tutorial and presenting other great tutorials. 
 https://emdupre.github.io/git-course/
