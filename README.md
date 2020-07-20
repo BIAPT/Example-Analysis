@@ -37,7 +37,7 @@ https://emdupre.github.io/git-course/
 
 Here's a list of good tutorials to get started with python.
 
-First, if you are a student, Git Hub offers free acces to the best developer tools in one place : [GitHub Student Developer Pack](https://education.github.com/pack). You'll have, among many others things, a free month access to DataCamp which is paticularly convenient if you're completely new to the language. 
+First, if you are a student, GitHub offers free acces to the best developer tools in one place : [GitHub Student Developer Pack](https://education.github.com/pack). You'll have, among many other things, a free month access to DataCamp which is paticularly convenient if you're completely new to the language. 
 
 "[Python in neuroscience](https://github.com/btel/python-in-neuroscience-tutorials)" is a collection of collaboratively-edited tutorials on computational neuroscience methods using Python language.
 
@@ -45,5 +45,9 @@ Many MOOCs offer thorough courses on python, like these ones:
 
 [Coursera](https://www.coursera.org/learn/python)
 [Udemy](https://www.udemy.com/course/complete-python-bootcamp-expert-course/)
+
+## Analysis techniques available on MNE-Python with links to the proper documentation
+
+To be added 
 
 
