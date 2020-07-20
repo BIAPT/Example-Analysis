@@ -43,8 +43,9 @@ First, if you are a student, GitHub offers free acces to the best developer tool
 
 Many MOOCs offer thorough courses on python, like these ones:
 
-[Coursera](https://www.coursera.org/learn/python)
-[Udemy](https://www.udemy.com/course/complete-python-bootcamp-expert-course/)
+*[Coursera](https://www.coursera.org/learn/python)
+
+*[Udemy](https://www.udemy.com/course/complete-python-bootcamp-expert-course/)
 
 ## Analysis techniques available on MNE-Python with links to the proper documentation
 
