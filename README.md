@@ -68,4 +68,11 @@ MNE-python offers a great variety of analysis techniques presented as tutorials 
 
 Among many other things ! Don't miss  see [documentation overview](https://mne.tools/dev/overview/index.html) !
 
+## How to format your dataset
+
+Use the BIDS convention to format your dataset properly, this will allow all researcher to be able to use your experiment specific script for their purposes.
+For EEG data analysis here are some useful links:
+- https://bids-specification.readthedocs.io/en/stable/03-modality-agnostic-files.html
+- https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/03-electroencephalography.html
+- [Bids Validator](https://bids-standard.github.io/bids-validator/)
 
